@@ -1,0 +1,24 @@
+CSS Fontes Externas
+
+----------------------------
+
+Google Fonts
+
+Embed - @import
+
+<style> @import
+
+-----------------------------
+
+dafont.com
+
+download
+
+extract - move to vs folder
+
+@font-face {
+ font-family: ;
+ src: url("nome do arquivo") format("opentype");
+
+opentype-otf,truetype-ttf, svg
+embedded-opentype,truetype-aat(apple advanced typography)

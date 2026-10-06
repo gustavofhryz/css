@@ -1,0 +1,9 @@
+CSS Text and Text Alignment
+
+<style>
+ <body>
+  {
+text-indent: 30px; ( espaçamento margem parágrafo )
+
+text-align: left; center; right; justify; ( alignment )
+                                                          }

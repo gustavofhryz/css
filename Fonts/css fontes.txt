@@ -1,0 +1,33 @@
+CSS Fontes
+
+medidas absolutas
+cm, mm, in, *px*, pt, pc
+
+medidas relativas
+
+*em*, ex, rem, vh, vw(viewport), %
+---------------------------------------------------------------------------------------------------------------
+<head>
+ <style>
+  body {
+   font-family: ", ", "; }
+   font-size: "";
+  </style>
+</head>
+
+font-style: normal / italic / bold
+
+font-weight: 100 - 900
+normal / lighter / normal / bold / bolder
+
+font-size: 16px;
+
+font-family: couriew new; / sans-serif; / serif; / monospace; / work sans; / etc.
+
+text-decoration: underline;
+
+@import url
+
+/*shorthand font*
+- font-style -> -font-weight -> font-size -> font-family */
+font: italic bolder 3m 'work sans', sans-serif;

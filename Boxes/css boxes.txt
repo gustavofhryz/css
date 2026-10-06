@@ -1,0 +1,38 @@
+CSS Boxes
+
+box-level
+
+<div>
+<h1>-<h6>
+<p>
+<main>
+<header>
+<nav>
+<article>
+<aside>
+<footer>
+<form>
+<video>
+
+inline-level 
+
+<span>
+<a>
+<code>
+<small>
+<strong>
+<em>
+<sup>-<sub>
+<label>
+<button>
+<input>
+<select>
+
+box-shadow: 3px 5px 4px black;
+border-radius 10px; margin-right;
+border: personalizar gimp,export,code:
+border: 15px solid black
+padding: 10px
+border-imagem-source: url('borda,png'); 
+border-image-slice: 30;
+border-image-repeat: repeat;
